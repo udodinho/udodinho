@@ -1,8 +1,11 @@
 ### Hi there! 👋  I'm Victor, Welcome to my Github
 
  <hr >
- <a href="mailto:victorudochukwu200@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+ <a href="https://www.linkedin.com/in/victor-anyimukwu-6160b5208/">
+ <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+ 
+ <a  href="mailto:victorudochukwu200@gmail.com">
+  <img style="color: white" align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
 
 <br>
@@ -20,3 +23,14 @@ I have an intense desire to learn, support, and provide solutions to problems.
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=udodinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udodinho&layout=compact&langs_count=7&theme=radical" />
   </div>
+
+ ## Technologies I love and use 
+ <div style="display: inline_block"><br>
+  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" >
+  <img align="center" alt="go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" >
+  <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" >
+  <img align="center" alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" >
+  <img align="center" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" >
+ </div>
+ 
+ 
