@@ -18,11 +18,7 @@ I have an intense desire to learn, support, and provide solutions to problems.
 <br>
 <hr>
 
-<div align="center">
-  <a href="https://github.com/udodinho">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=udodinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udodinho&layout=compact&langs_count=7&theme=radical" />
-  </div>
+
 
  ## Technologies I love and use 
  <div style="display: inline_block"><br>
